@@ -1,0 +1,7 @@
+# If you use Flask for a web-based GUI
+Flask==2.3.2
+
+# If you use Pandas for data management
+pandas==2.1.0
+
+# If you use any other libraries, list them here
