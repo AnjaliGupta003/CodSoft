@@ -9,8 +9,7 @@ Project Structure
 Task1/: The main directory for the To-Do List application.
 README.md: This file, providing an overview of the project.
 todo.py: The main Python script that contains the logic for the To-Do List application.
-requirements.txt: (Optional) List of dependencies if any libraries are used.
-data/: (Optional) A folder to store task data if needed, e.g., a JSON file to save tasks.
+requirements.txt: List of dependencies if any libraries are used.
 Technologies Used
 Python: The programming language used to develop the To-Do List application.
 Setup and Usage
